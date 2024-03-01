@@ -1,3 +1,5 @@
+![Seu GIF](./943e722b-6a26-44c6-a13f-cc00667b42b8.gif)
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&duration=1500&pause=1000&color=22F723&background=FFFFFF00&center=true&vCenter=true&random=false&width=431&lines=Hi+There!%F0%9F%91%8B;I'm+Tom%C3%A1s+Pinto!+%F0%9F%98%80" alt="Typing SVG" /></a>
 </h1>
