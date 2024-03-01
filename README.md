@@ -25,8 +25,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <h3 align="center">My Top Languages</h3>
-<p align="center">
-<a href="https://github.com/Primenta">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primenta&layout=compact&include_all_commits=true" alt="Top Langs"/>
-</a>
+ <p align=center>
+    <a href="https://github.com/Primenta">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primenta&layout=compact&include_all_commits=true&theme=github_dark" alt="Top Langs"> <br>     
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Primenta&theme=github_dark&hide_border=false">
+    </a><br>
 
